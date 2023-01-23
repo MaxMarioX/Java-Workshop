@@ -16,10 +16,10 @@ The application has the ability to enter commands and perform appropriate operat
 
 The application has the following features:
 
-displaying all available tasks,
-exiting the application,
-adding a task,
-deleting a task,
-loading data from a file at application startup,
-saving data to a file,
-validation of a numerical value during deletion.
+- displaying all available tasks,
+- exiting the application,
+- adding a task,
+- deleting a task,
+- loading data from a file at application startup,
+- saving data to a file,
+- validation of a numerical value during deletion.
